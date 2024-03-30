@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://MathHQ.github.io/sitemap.xml
