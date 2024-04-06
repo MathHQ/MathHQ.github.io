@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>MathHQ</title>
-    <link>https://MathHQ.github.io/</link>
+    <link>https://MathHQ.github.io/cn/</link>
     <description>Recent content on MathHQ</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <atom:link href="https://MathHQ.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>cn</language>
+    <atom:link href="https://MathHQ.github.io/cn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://MathHQ.github.io/contact/</link>
+      <link>https://MathHQ.github.io/cn/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://MathHQ.github.io/contact/</guid>
+      <guid>https://MathHQ.github.io/cn/contact/</guid>
       <description>contact</description>
     </item>
     <item>
       <title></title>
-      <link>https://MathHQ.github.io/cv/</link>
+      <link>https://MathHQ.github.io/cn/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://MathHQ.github.io/cv/</guid>
+      <guid>https://MathHQ.github.io/cn/cv/</guid>
       <description>cv</description>
     </item>
     <item>
       <title></title>
-      <link>https://MathHQ.github.io/research/</link>
+      <link>https://MathHQ.github.io/cn/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://MathHQ.github.io/research/</guid>
+      <guid>https://MathHQ.github.io/cn/research/</guid>
       <description>research</description>
     </item>
   </channel>
